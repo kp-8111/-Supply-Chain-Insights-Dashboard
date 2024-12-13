@@ -1,5 +1,4 @@
 ## 1. Supply Chain Insights Dashboard
-[View Dashboard](https://project.novypro.com/s54k9N)
 
 ### Project Overview
 AtliQ Mart, a growing FMCG manufacturer based in Gujarat, India, operates in three cities: Surat, Ahmedabad, and Vadodara. Planning to expand to Tier 1 cities in the next two years, the company faced challenges with key customers not renewing contracts due to service issues like late or incomplete deliveries.
@@ -18,6 +17,6 @@ Develop a dashboard to monitor daily delivery metrics—On-Time Delivery (OT) %,
 
 ### Outcome
 Improved customer service and retention through data-driven insights, paving the way for smoother expansion to other cities.
-
+[View Dashboard](https://project.novypro.com/s54k9N)
 
 
